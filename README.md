@@ -11,3 +11,6 @@ Algorithms Used :- Logistic Regression, Decision Tree, Random Forest,  Multinomi
 1) Exploration of data using pandas, numpy, matplotlib and plotly.
 
 ![Screenshot (64)](https://user-images.githubusercontent.com/55007875/228819346-59b8a2dd-8870-4555-8d87-b7222b693c9e.png)
+
+2) Data Preprocessing :- Tried varies data preprocessing techniques 
+- Contraction
