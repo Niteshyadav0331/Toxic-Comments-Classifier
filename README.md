@@ -41,5 +41,16 @@ Algorithms Used :- Logistic Regression, Decision Tree, Random Forest,  Multinomi
 - Based on Log Loss 
 ![logg_loss](https://user-images.githubusercontent.com/55007875/228821530-04332a17-33fe-401d-9ff3-032fbba1ca27.png)
 
+- Accuracies and Losses are as follow :- 
+
+![scores](https://user-images.githubusercontent.com/55007875/228821976-82ef81c2-2c4e-465f-bd09-33cf2c2ae3ae.png)
+![losses](https://user-images.githubusercontent.com/55007875/228822010-03983627-4504-4421-974a-0b7a41ef0b72.png)
+
+6) Created a Flask Web App
+
+![flask1](https://user-images.githubusercontent.com/55007875/228823145-4b352c34-b585-441f-9c4f-8065adf955a3.png)
+
+![flask2](https://user-images.githubusercontent.com/55007875/228823165-f0bf5c33-28ed-4ebd-9fc3-bd349b9a4ba3.png)
+
 
 
