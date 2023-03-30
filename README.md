@@ -14,3 +14,32 @@ Algorithms Used :- Logistic Regression, Decision Tree, Random Forest,  Multinomi
 
 2) Data Preprocessing :- Tried varies data preprocessing techniques 
 - Contraction
+- Removing punctuations and unwanted characters using regex
+- Removing Stopwords
+- Lemmatization
+- TFIDF Vectoizer
+- Word to vec
+
+3) Modelling :- Impllemented various machine learning and deep learning models
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- Multinomial Naive Bayes
+- XGBoost
+- LightGBM
+- Gradient Boost
+- RNN
+- LSTM
+- GRU
+
+4) Performed Hyper parameter tuning for XGBoost using GridSearchCV
+5) Models Comparison
+- Based on Accuracy
+ ![accuracies](https://user-images.githubusercontent.com/55007875/228821411-383dbcdc-dd66-4f19-8f83-8aab6ab4be93.png)
+- Basid on Hamming Loss
+![hamming_loss](https://user-images.githubusercontent.com/55007875/228821459-91c64c89-1133-42a4-8f07-5780b438a80a.png)
+- Based on Log Loss 
+![logg_loss](https://user-images.githubusercontent.com/55007875/228821530-04332a17-33fe-401d-9ff3-032fbba1ca27.png)
+
+
+
